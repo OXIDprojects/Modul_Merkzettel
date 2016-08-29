@@ -21,8 +21,7 @@ $aModule = array(
     'id'            => 'ecs_merkzettel',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>Merkzettel</i>',
     'description'   => array(
-                        'de' => '<i>Inhalte des Merkzettels bleiben auch nach der Bestellung erhalten.</i>
-                    <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+                        'de' => '<i>Inhalte des Merkzettels bleiben auch nach der Bestellung erhalten.</i>',
     ),
     'version'       => '1.0',
     'thumbnail'     => 'ecomstyle.png',
